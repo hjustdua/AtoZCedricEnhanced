@@ -1,0 +1,33 @@
+# AtoZ Cedric Enhanced
+
+A Tampermonkey script for Amazon AtoZ that provides enhanced time tracking and automatic schedule management.
+
+## Features
+- Automatic time tracking and calculations
+- Customizable work hours and break times
+- Real-time remaining time display
+- Automatic schedule button detection
+- Color-coded time status indicators
+- Multiple display format options
+
+## Installation
+1. Install Tampermonkey for [Chrome](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo) or [Firefox](https://addons.mozilla.org/en-US/firefox/addon/tampermonkey/)
+2. Visit the [installation page](https://YOUR-USERNAME.github.io/AtoZCedricEnhanced/)
+3. Click the "Install" button
+
+## Usage
+After installation, the script will automatically run when you visit AtoZ. You can:
+- Set your work hours
+- Set your break time
+- Choose display format
+- View remaining time
+- Auto-click schedule buttons
+
+## Updates
+The script will automatically check for updates. You can also manually update by reinstalling from the installation page.
+
+## Support
+For issues or suggestions, please open an issue in this repository.
+
+## License
+MIT License
